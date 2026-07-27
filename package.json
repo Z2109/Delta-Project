@@ -1,7 +1,7 @@
 {
     "engines": {
-        "node": "25.x"
-    },
+  "node": "22.x"
+},
     "name": "major-project",
     "version": "1.0.0",
     "description": "",
